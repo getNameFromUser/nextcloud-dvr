@@ -1,0 +1,15 @@
+{
+    "name": "D V R",
+    "description": "Automatischer Downloader und Converter für DVR Geräte (Technisat Digicorder HD S2+)",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Philip Maus"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
